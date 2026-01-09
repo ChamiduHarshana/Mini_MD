@@ -1,0 +1,12 @@
+{
+  "name": "xchami-md",
+  "version": "6.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "axios": "^1.6.0",
+    "pino": "^8.16.1",
+    "readline": "0.0.1"
+  }
+}

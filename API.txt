@@ -1,0 +1,27 @@
+yt search : https:///movanest.xyz/v2/ytsearch?query=
+yt video download : https:///movanest.xyz/v2/ytmp4?url=
+yt song download : https:///movanest.xyz/v2/ytmp3?url=
+fb video download : https:///movanest.xyz/v2/fbdown?url=
+twitter download : https:///movanest.xyz/v2/ssstwitter?url=
+tiktok downloder : https:///movanest.xyz/v2/tiktok?url=
+instragram download : https:///movanest.xyz/v2/instagram?url=
+mediafire download : https:///movanest.xyz/v2/mediafire?url=
+
+AI comand 
+
+ai : https:///movanest.xyz/v2/pollination?text=
+
+Convert
+
+background remover : https:///movanest.xyz/v2/removebg?image_url=
+website screenshot : https:///movanest.xyz/v2/ssweb?url=
+translate : https:///movanest.xyz/v2/translate?text=
+
+News
+
+news : https:///movanest.xyz/v2/news/fetch?category=
+
+movie
+
+subtitle : https:///movanest.xyz/v2/sublk?url=
+movie search : https://chamidu-cinesubz-se-90.deno.dev/search?q=
